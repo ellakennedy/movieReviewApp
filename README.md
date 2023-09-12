@@ -1,4 +1,4 @@
-**Popcorn Wars - Your Ultimate Movie Companion**
+# Popcorn Wars - Your Ultimate Movie Companion
 
 Popcorn Wars is an interactive movie review application designed to enhance your cinematic experience. With Popcorn Wars, you can effortlessly:
 
@@ -10,7 +10,8 @@ Popcorn Wars is an interactive movie review application designed to enhance your
 
 - **Top Picks**: See what movies are trending based on user reviews. The ability to watch the trailer and give additional reviews on the movie trailer.
 
-**Technologies Used**
+
+### Technologies Used 
 
 Popcorn Wars leverages cutting-edge technologies to deliver a seamless user experience:
 
@@ -22,7 +23,8 @@ Popcorn Wars leverages cutting-edge technologies to deliver a seamless user expe
 
 - **Navigation**: Implements React Router for smooth and dynamic page routing.
 
-**Getting Started**
+
+### Getting Started
 
 Getting started with Popcorn Wars is quick and easy:
 
@@ -32,7 +34,8 @@ Getting started with Popcorn Wars is quick and easy:
 4. Start the development server using `npm start`.
 5. Open your web browser and visit `http://localhost:3000` to begin using the app.
 
-**Acknowledgements**
+
+### Acknowledgements
 
 Popcorn Wars is a project developed as part of the Spring 2023 MSCI245 course at the University of Waterloo. We're grateful for the knowledge and support gained throughout the development process, which has made this application possible.
 
