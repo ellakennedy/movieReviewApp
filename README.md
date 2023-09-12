@@ -1,6 +1,6 @@
-**MovieMate - Your Ultimate Movie Companion**
+**Popcorn Wars - Your Ultimate Movie Companion**
 
-MovieMate is an interactive movie review application designed to enhance your cinematic experience. With MovieMate, you can effortlessly:
+Popcorn Wars is an interactive movie review application designed to enhance your cinematic experience. With Popcorn Wars, you can effortlessly:
 
 - **Discover Movies**: Easily search for movies by title, actor, or director, making it a breeze to find your favorites or explore new cinematic gems.
 
@@ -12,7 +12,7 @@ MovieMate is an interactive movie review application designed to enhance your ci
 
 **Technologies Used**
 
-MovieMate leverages cutting-edge technologies to deliver a seamless user experience:
+Popcorn Wars leverages cutting-edge technologies to deliver a seamless user experience:
 
 - **Frontend**: Built with React and styled with Material-UI, providing an intuitive and visually appealing interface.
 
@@ -24,7 +24,7 @@ MovieMate leverages cutting-edge technologies to deliver a seamless user experie
 
 **Getting Started**
 
-Getting started with MovieMate is quick and easy:
+Getting started with Popcorn Wars is quick and easy:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
@@ -34,7 +34,7 @@ Getting started with MovieMate is quick and easy:
 
 **Acknowledgements**
 
-MovieMate is a project developed as part of the Spring 2023 MSCI245 course at the University of Waterloo. We're grateful for the knowledge and support gained throughout the development process, which has made this application possible.
+Popcorn Wars is a project developed as part of the Spring 2023 MSCI245 course at the University of Waterloo. We're grateful for the knowledge and support gained throughout the development process, which has made this application possible.
 
 
 
