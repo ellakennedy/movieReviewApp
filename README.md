@@ -1,5 +1,8 @@
 # Popcorn Wars - Your Ultimate Movie Companion
 
+![image](https://github.com/ellakennedy/movieReviewApp/assets/97488388/11e1e78c-3adb-45b7-8902-4bba1b08fd78)
+
+
 Popcorn Wars is an interactive movie review application designed to enhance your cinematic experience. With Popcorn Wars, you can effortlessly:
 
 - **Discover Movies**: Easily search for movies by title, actor, or director, making it a breeze to find your favorites or explore new cinematic gems.
